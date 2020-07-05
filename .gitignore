@@ -1,0 +1,11 @@
+# Ignora tutto 
+*
+
+# MA non ingnorare ...
+
+!.gitignore
+!*.md
+
+# ... ed anche se sono in una sottocartella
+
+!*/
